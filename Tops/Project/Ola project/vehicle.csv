@@ -1,0 +1,22 @@
+"vehicle_id";"driver_id";"vehicle_type";"model";"quality_rating"
+110;1;"Sedan";"Toyota Camry";0.0
+111;2;"SUV";"Ford Explorer";0.0
+112;3;"Hatchback";"Hyundai i20";0.0
+113;4;"Luxury Sedan";"Mercedes-Benz S-Class";0.0
+114;5;"Compact SUV";"Honda CR-V";0.0
+115;6;"Pickup Truck";"Ford F-150";0.0
+116;7;"Minivan";"Chrysler Pacifica";0.0
+117;8;"Electric Sedan";"Tesla Model S";0.0
+118;9;"Crossover";"Kia Seltos";0.0
+119;10;"Convertible";"BMW Z4";0.0
+120;11;"Coupe";"Audi A5";0.0
+121;12;"Sports Car";"Porsche 911";0.0
+123;13;"Hybrid SUV";"Toyota RAV4 Hybrid";0.0
+124;14;"Compact Car";"Honda Civic";0.0
+125;15;"Off-Road SUV";"Jeep Wrangler";0.0
+126;16;"Luxury SUV";"Range Rover";0.0
+127;17;"Station Wagon";"Volvo V90";0.0
+128;18;"Subcompact Car";"Nissan Versa";0.0
+129;19;"Muscle Car";"Ford Mustang";0.0
+130;20;"Electric SUV";"Tesla Model X";0.0
+131;21;"Pickup";"Chevrolet Silverado";0.0
