@@ -1,0 +1,12 @@
+import numpy as np
+
+# Input array
+a = np.array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14])
+
+# Set print options to show only 6 elements
+np.set_printoptions(max_line_width=60)
+
+# Display the array
+print(np.array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]))
+# Output:
+# array([ 0,  1,  2, ..., 12, 13, 14])
